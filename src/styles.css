@@ -23,8 +23,8 @@
     align-items:center;
     margin:auto;
     padding:4% 3%;
-    background-image: radial-gradient(rgba(46, 146, 111, 0.6),rgba(67, 137, 230, 0.6));
-    box-shadow:  0px 0px 100px rgba(67, 137, 230, 0.6);
+    background-image: radial-gradient(rgba(27, 87, 66, 0.6),rgba(28, 55, 90, 0.6));
+    box-shadow:  0px 0px 100px rgba(28, 55, 90, 0.6);
 }
 
 .card-image{
