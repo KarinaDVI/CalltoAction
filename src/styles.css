@@ -23,7 +23,7 @@
     align-items:center;
     margin:auto;
     padding:4% 3%;
-    background-image: radial-gradient(rgba(46, 146, 111, 0.6),rgba(29, 62, 105, 0.6));
+    background-image: radial-gradient(rgba(33, 102, 78, 0.6),rgba(29, 62, 105, 0.6));
     box-shadow:  0px 0px 100px rgba(29, 62, 105, 0.6);
 }
 
